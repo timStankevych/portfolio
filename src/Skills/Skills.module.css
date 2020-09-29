@@ -1,0 +1,20 @@
+.wrapper {
+    align-items: center;
+    flex-direction: column;
+}
+
+.skills_block {
+    height: 100vh;
+    background-color: #38434c;
+}
+
+.skills {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.title {
+
+}
