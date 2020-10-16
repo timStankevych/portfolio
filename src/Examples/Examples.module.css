@@ -3,12 +3,11 @@
     flex-direction: column;
 }
 
-.skills_block {
-    height: 100vh;
-    background-color: #38434c;
+.examples_block {
+    background-color: #61dafb;
 }
 
-.skills {
+.examples {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
