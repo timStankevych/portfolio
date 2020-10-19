@@ -30,7 +30,7 @@ function App() {
                 <div className={'links'}>
                     1   2   3   4
                 </div>
-                <span> c 2020 </span>
+                <footer> c 2020 </footer>
             </div>
         </div>
     );
